@@ -1,6 +1,6 @@
 
 // ---------------------------------------------------------------- // 
-// Arduino Origami Bot 
+// Arduino Origami Bot Project
 // Created by USF Department of Engineering
 // Using Arduino IDE 1.8.19
 // Tested Oct. 4 
