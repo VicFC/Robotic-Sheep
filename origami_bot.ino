@@ -1,6 +1,6 @@
 
 // ---------------------------------------------------------------- // 
-// Arduino Origami Bot 
+// Arduino Origami Bot Project
 // Created by Daniel Jordan, USF Department of Engineering
 // Using Arduino IDE 1.8.19
 // Tested Jan. 20 2023
